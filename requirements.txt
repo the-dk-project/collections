@@ -1,0 +1,8 @@
+sqlalchemy
+configparser
+mysql-connector
+postgres
+psycopg2
+pyodbc
+mssql
+cx_oracle
