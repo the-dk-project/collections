@@ -6,3 +6,4 @@ psycopg2
 pyodbc
 mssql
 cx_oracle
+pandas
