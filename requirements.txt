@@ -7,3 +7,6 @@ pyodbc
 mssql
 cx_oracle
 pandas
+oauth2client
+pydrive
+gspread
